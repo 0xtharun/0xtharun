@@ -1,5 +1,5 @@
 <a  href="https://www.github.com/tharun0120"><img src="./icons/github-original.svg" width="65" color="white"/></a> &nbsp;
-<a  href="www.linkedin.com/tharunkumar0120"><img src="./icons/linkedin-original.svg" width="65" /></a> &nbsp;
+<a  href="https://www.linkedin/tharunkumar0120"><img src="./icons/linkedin-original.svg" width="65" /></a> &nbsp;
 <a  href=""><img src="./icons/twitter-original.svg" width="65" /></a>
 
 <h1 align="center"></h1>
