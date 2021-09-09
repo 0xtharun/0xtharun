@@ -16,7 +16,7 @@
 
 - 💙 I love **Programming**
 
-- ⚡ Fun fact: **Java is a caffeine☕. Literally!**
+- ⚡ Fun fact: **Java is a type of caffeine☕. Literally!**
 
 <h1 align="center"></h1>
 <p align="center">
