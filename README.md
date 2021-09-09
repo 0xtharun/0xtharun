@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on ...
 
-- 💬 Ask me about **Science🧪 I am into Science**
+- 💬 Ask me about **Science🧪 -I am into Science-**
 
 - 💙 I love **Programming**
 
