@@ -23,7 +23,7 @@
   <img src="./logos/cplusplus.svg" width="40" height="40"/>
   <img src="./logos/java.svg" width="40" height="40"/>
   <img src="./logos/python.svg" width="40" height="40"/>
-  <img src="./logos/html.svg" width="40" height="40"/>
+  <img src="./logos/html5.svg" width="40" height="40"/>
   <img src="./logos/css.svg" width="40" height="40"/>
   <img src="./logos/javascript.svg" width="40" height="40"/>
   <img src="./logos/mongo.svg" width="40" height="40"/>
