@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact: **Java is a type of caffeine☕. Literally!**
 
+<h1 align="center"></h1>
+
 ![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharun0120&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharun0120)](https://github.com/tharun0120/github-readme-stats)
