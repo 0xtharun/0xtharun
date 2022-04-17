@@ -1,6 +1,7 @@
 <a  href="https://www.github.com/tharun0120" target="_blank"><img src="./icons/github-original.svg" width="65" color="white"/></a> &nbsp;
 <a  href="https://www.linkedin.com/in/tharunkumar0120" target="blank"><img src="./icons/linkedin-original.svg" width="65" /></a> &nbsp;
-<a  href="https://twitter.com/tharunkumar0120"><img src="./icons/twitter-original.svg" width="65" /></a>
+<a  href="https://twitter.com/tharunkumar0120"><img src="./icons/twitter-original.svg" width="65" /></a> &nbsp;
+<a  href="https://www.tharunkumar.tech" target="blank"><img src="./icons/favicon.png" width="65" /></a>
 
 <h1 align="center"></h1>
 
@@ -32,6 +33,7 @@
   <img src="./logos/cplusplus.svg" width="65" height="65"/>
   <img src="./logos/java.svg" width="65" height="65"/>
   <img src="./logos/python.svg" width="65" height="65"/>
+  <img src="./logos/mysql.svg" width="65" height="65"/>
   <img src="./logos/html5.svg" width="65" height="65"/>
   <img src="./logos/css.svg" width="65" height="65"/>
   <img src="./logos/javascript.svg" width="65" height="65"/>
@@ -41,4 +43,6 @@
   <img src="./logos/nodejs.svg" width="65" height="65"/>
   <img src="./logos/bash.svg" width="65" height="65"/>
   <img src="./logos/git.svg" width="65" height="65"/>
+  <img src="./logos/nextjs.svg" width="65" height="65"/>
+  <img src="./logos/tailwindcss.svg" width="65" height="65"/>
 </p>
