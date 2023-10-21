@@ -1,7 +1,6 @@
 <a  href="https://www.github.com/tharun0120" target="_blank"><img src="./icons/github-original.svg" width="65" color="white"/></a> &nbsp;
 <a  href="https://www.linkedin.com/in/tharunkumar0120" target="blank"><img src="./icons/linkedin-original.svg" width="65" /></a> &nbsp;
 <a  href="https://twitter.com/tharunkumar0120"><img src="./icons/twitter-original.svg" width="65" /></a> &nbsp;
-<a  href="https://www.tharunkumar.tech" target="blank"><img src="./icons/favicon.png" width="65" /></a>
 
 <h1 align="center"></h1>
 
@@ -21,10 +20,6 @@
 
 <h1 align="center"></h1>
 
-![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tharun0120&show_icons=true&theme=radical)
-
-<h1 align="center"></h1>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharun0120)](https://github.com/tharun0120/github-readme-stats)
 
 <h1 align="center"></h1>
@@ -38,11 +33,8 @@
   <img src="./logos/css.svg" width="65" height="65"/>
   <img src="./logos/javascript.svg" width="65" height="65"/>
   <img src="./logos/mongodb.svg" width="65" height="65"/>
-  <img src="./logos/express.svg" width="65" height="65" color="white"/>
   <img src="./logos/react.svg" width="65" height="65" color="white"/>
   <img src="./logos/nodejs.svg" width="65" height="65"/>
-  <img src="./logos/bash.svg" width="65" height="65"/>
-  <img src="./logos/git.svg" width="65" height="65"/>
   <img src="./logos/nextjs.svg" width="65" height="65"/>
   <img src="./logos/tailwindcss.svg" width="65" height="65"/>
 </p>
