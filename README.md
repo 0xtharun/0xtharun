@@ -29,9 +29,6 @@
   <img src="./logos/java.svg" width="65" height="65"/>
   <img src="./logos/python.svg" width="65" height="65"/>
   <img src="./logos/mysql.svg" width="65" height="65"/>
-  <img src="./logos/html5.svg" width="65" height="65"/>
-  <img src="./logos/css.svg" width="65" height="65"/>
-  <img src="./logos/javascript.svg" width="65" height="65"/>
   <img src="./logos/mongodb.svg" width="65" height="65"/>
   <img src="./logos/react.svg" width="65" height="65" color="white"/>
   <img src="./logos/nodejs.svg" width="65" height="65"/>
