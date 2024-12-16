@@ -1,9 +1,10 @@
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 15px">
- <img src="./icons/favicon.png" width="150" height="150" alt="Logo" />
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Tharun+👋;Full+Stack+Developer;Always+learning+new+things&center=true&width=650&height=45&size=30">
+<div align="center">
+  <img src="./icons/favicon.png" width="150" height="150" alt="Logo" />
 </div>
 
-<div style="height: 5px; width: 100%;"></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Tharun+👋;Full+Stack+Developer;Always+learning+new+things&vcenter=true&center=true&width=450">
+</div>
 
 <p align="center">
   <a href="https://0xtharun.me" target="_blank">
@@ -72,8 +73,6 @@ badc0de fix: handle semicolon anxiety
 feed123 docs: update README with new powers
 ```
 
-<div style="height: 10px; width: 100%;"></div>
-
 <div align="end">
   <a href="https://github.com/0xtharun/0xtharun">
     <img src="https://komarev.com/ghpvc/?username=0xtharun&color=green&style=for-the-badge" />
@@ -82,8 +81,6 @@ feed123 docs: update README with new powers
     <img src="https://img.shields.io/github/followers/0xtharun?style=for-the-badge&color=green" />
   </a>
 </div>
-
-<div style="height: 25px; width: 100%;"></div>
 
 <div align="center">
   <p
