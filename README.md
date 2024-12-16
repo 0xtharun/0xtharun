@@ -8,12 +8,14 @@
 
 <p align="center">
   <a href="https://0xtharun.me" target="_blank">
-    <img src="https://img.shields.io/badge/0xtharun.me-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black" />
+    <img src="https://img.shields.io/badge/0xtharun.me-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black&width=150" />
   </a>
   <a href="https://www.linkedin.com/in/0xtharun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=150" />
   </a>
 </p>
+
+<h1 align="center"></h1>
 
 ```bash
 $ cat /etc/0xtharun
@@ -81,6 +83,8 @@ feed123 docs: update README with new powers
     <img src="https://img.shields.io/github/followers/0xtharun?style=for-the-badge&color=green" />
   </a>
 </div>
+
+<h1 align="center"></h1>
 
 <div align="center">
   <p
