@@ -15,10 +15,8 @@
   </a>
 </p>
 
-<h1 align="center"></h1>
-
 ```bash
-$ cat /etc/0xtharun
+$ cat /etc/0xtharun.ts
 ```
 
 ```typescript
@@ -62,7 +60,7 @@ class MySelf {
 $ git log --oneline
 ```
 
-```plaintext
+```bash
 0xc0ffee Initial commit: Developer.genesis()
 1337c0d feat: add TypeScript superpowers
 0xdebug fix: resolve coffee overflow exception
