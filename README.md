@@ -46,13 +46,13 @@ class MySelf {
   ];
 
   public getUptime(): string {
-    return;
+    return "8366 days, 21:15";
   }
 }
 
 // TODO: Versioning self one commit at a time
 // System Status: Online | Coffee Level: High | Debug Mode: Active
-// Last system check:
+// Last system check: 12/16/2024
 ```
 
 ```bash
