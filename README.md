@@ -51,7 +51,7 @@ class MySelf {
   }
 }
 
-// TODO: Versioning self one commit at a time
+// TODO: Navigating life one commit at a time
 // System Status: Online | Coffee Level: High | Debug Mode: Active
 // Last system check: 12/16/2024
 ```
@@ -110,7 +110,7 @@ feed123 docs: update README with new powers
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
       width="50"
       height="50"
-      alt="Python"
+      alt="c"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"
@@ -122,7 +122,13 @@ feed123 docs: update README with new powers
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
       width="50"
       height="50"
-      alt="Go"
+      alt="Rust"
+    />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      width="50"
+      height="50"
+      alt="java"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
