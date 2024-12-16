@@ -1,0 +1,67 @@
+name: Update Timestamps
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-timestamps:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Update Timestamps
+        run: |
+          node -e '
+            try {
+              // Calculate uptime
+              const genesis = new Date("2002-01-20").getTime();
+              const now = Date.now();
+              const diff = now - genesis;
+              
+              const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+              const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+              const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+              
+              const uptime = `${days} days, ${hours}:${minutes.toString().padStart(2, "0")}`;
+              const lastUpdated = new Date().toLocaleDateString();
+              
+              const fs = require("fs");
+              const path = require("path");
+              const readmePath = path.join(process.cwd(), "README.md");
+              
+              let readme = fs.readFileSync(readmePath, "utf8");
+              
+              // Update uptime with more specific regex
+              readme = readme.replace(
+                /public getUptime\(\): string {\n\s*return.*;?\n\s*}/,
+                `public getUptime(): string {\n    return "${uptime}";\n  }`
+              );
+              
+              // Update last check timestamp
+              readme = readme.replace(
+                /\/\/ Last system check:.*/,
+                `// Last system check: ${lastUpdated}`
+              );
+              
+              fs.writeFileSync(readmePath, readme);
+              console.log("README.md updated successfully");
+            } catch (error) {
+              console.error("Error updating README:", error);
+              process.exit(1);
+            }
+          '
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "chore: update timestamps" || exit 0
+          git push
