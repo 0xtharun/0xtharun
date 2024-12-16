@@ -14,6 +14,10 @@
   </a>
 </p>
 
+```bash
+$ cat /etc/0xtharun
+```
+
 ```typescript
 class MySelf {
   readonly GENESIS = 1011484800; // First commit: 20 JAN 2002
@@ -46,8 +50,26 @@ class MySelf {
   }
 }
 
+// TODO: Versioning self one commit at a time
 // System Status: Online | Coffee Level: High | Debug Mode: Active
 // Last system check:
+```
+
+```bash
+$ git log --oneline
+```
+
+```plaintext
+0xc0ffee Initial commit: Developer.genesis()
+1337c0d feat: add TypeScript superpowers
+0xdebug fix: resolve coffee overflow exception
+0xc0ded feat: implement rubber duck debugging
+deadc0de style: upgrade IDE theme collection
+1234567 feat: enable matrix mode v1.0.0
+c0ffee5 perf: optimize caffeine intake
+0xbeans deps: upgrade coffee dependencies
+badc0de fix: handle semicolon anxiety
+feed123 docs: update README with new powers
 ```
 
 <div style="height: 10px; width: 100%;"></div>
