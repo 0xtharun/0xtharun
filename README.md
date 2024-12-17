@@ -45,7 +45,7 @@ class MySelf {
   ];
 
   public getUptime(): string {
-    return "8367 days, 1:41";
+    return "8367 days"; // 22 years 
   }
 }
 
