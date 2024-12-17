@@ -20,7 +20,6 @@ jobs:
         run: |
           node -e '
             try {
-              // Calculate uptime
               const genesis = new Date("2002-01-20").getTime();
               const now = Date.now();
               const diff = now - genesis;
@@ -30,6 +29,7 @@ jobs:
               const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
 
               const years = Math.floor(days / 365.25);
+              const remainingDays = Math.floor(totalDays % 365.25);
               
               const uptime = `${days} days`;
               const lastUpdated = new Date().toLocaleDateString();
@@ -40,13 +40,11 @@ jobs:
               
               let readme = fs.readFileSync(readmePath, "utf8");
               
-              // Update uptime with more specific regex
               readme = readme.replace(
                 /public getUptime\(\): string {\n\s*return.*;?\n\s*}/,
-                `public getUptime(): string {\n    return "${uptime}"; \/\/ ${years} years \n  }`
+                `public getUptime(): string {\n    return "${uptime}"; \/\/ ${years} years, ${remainingDays} days\n  }`
               );
               
-              // Update last check timestamp
               readme = readme.replace(
                 /\/\/ Last system check:.*/,
                 `// Last system check: ${lastUpdated}`
