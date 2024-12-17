@@ -18,7 +18,7 @@ $ cat /etc/0xtharun.ts
 ```
 
 ```typescript
-class MySelf {
+class Tharun {
   readonly GENESIS = 1011484800; // First commit: 20 JAN 2002
 
   public readonly config = {
