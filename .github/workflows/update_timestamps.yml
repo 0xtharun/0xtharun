@@ -1,4 +1,4 @@
-name: Update Timestamps
+name: update_timestamps
 
 on:
   schedule:
