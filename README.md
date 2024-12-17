@@ -6,14 +6,12 @@
   <img src="https://readme-typing-svg.vercel.app/?lines=Hi+there!+I'm+Tharun+👋;Full+Stack+Developer;Always+learning+new+things&vcenter=true&center=true&width=450">
 </div>
 
-<p align="center">
-  <a href="https://0xtharun.me" target="_blank">
-    <img src="https://img.shields.io/badge/0xtharun.me-39FF14?style=for-the-badge&logo=hackthebox&logoColor=black&width=150" />
-  </a>
-  <a href="https://www.linkedin.com/in/0xtharun" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&width=150" />
-  </a>
-</p>
+<div align="center">
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="0xtharun.me"/></a>
+  <a href="https://www.linkedin.com/in/0xtharun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</div>
+
+&nbsp;
 
 ```bash
 $ cat /etc/0xtharun.ts
@@ -74,12 +72,8 @@ feed123 docs: update README with new powers
 ```
 
 <div align="end">
-  <a href="https://github.com/0xtharun/0xtharun">
-    <img src="https://komarev.com/ghpvc/?username=0xtharun&color=green&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/0xtharun?tab=followers">
-    <img src="https://img.shields.io/github/followers/0xtharun?style=for-the-badge&color=green" />
-  </a>
+  <a href="https://github.com/0xtharun/0xtharun"><img src="https://komarev.com/ghpvc/?username=0xtharun&color=green&style=for-the-badge"/></a>
+  <a href="https://github.com/0xtharun?tab=followers"><img src="https://img.shields.io/github/followers/0xtharun?style=for-the-badge&color=green"/></a>
 </div>
 
 <h1 align="center"></h1>
