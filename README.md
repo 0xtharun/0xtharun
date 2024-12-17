@@ -37,7 +37,7 @@ class Tharun {
 
   private readonly debugLog = [
     "Can't get enough with IDE themes",
-    "Thinks coffee can solve all problems",
+    "Thinks coffee is the answer",
     "Uses ENUMs for everything",
     "Talks to rubber ducks",
     "Scared of semicolons",
