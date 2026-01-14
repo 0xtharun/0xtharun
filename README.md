@@ -45,13 +45,13 @@ class Tharun {
   ];
 
   public getUptime(): string {
-    return "8759 days"; // 23 years, 358 days
+    return "8760 days"; // 23 years, 359 days
   }
 }
 
 // TODO: Navigating life one commit at a time
 // System Status: Online | Coffee Level: High | Debug Mode: Active
-// Last system check: 1/13/2026
+// Last system check: 1/14/2026
 ```
 
 ```bash
